@@ -1,0 +1,14 @@
+.container{
+    justify-content: center;
+    height: 500 vh;
+    width: 100%;
+  
+}
+#clock {
+    font-size: 100px;
+    width: 800px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 20px;
+}
